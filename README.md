@@ -1,5 +1,7 @@
 # Client PHP de l'API SOAP Yousign (v1.3.0)
 
+[![Join the chat at https://gitter.im/Yousign/yousign-api-client-php](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Yousign/yousign-api-client-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Description
 
 Ce client permet d'utiliser l'[API Soap de Yousign](http://developer.yousign.fr) via le langage PHP.
